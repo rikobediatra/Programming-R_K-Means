@@ -1,0 +1,8 @@
+"0","library(ggplot2)
+"
+"2","package ‘ggplot2’ was built under R version 4.0.3"
+"0","library(ggplot2)"
+"0","ggplot() +"
+"0","  geom_point(data=data.new, aes(x=Grocery, y=Frozen, color=cluster)) +"
+"0","  geom_point(data=centers, aes(x=Grocery, y=Frozen, color=""Center""),"
+"0","             size=52, alpha=.3, show.legend = FALSE)"
